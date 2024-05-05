@@ -1,4 +1,4 @@
-# Java Mini Assignment 2: User Verification System
+#  User Verification System
 
 ## Definition
 
